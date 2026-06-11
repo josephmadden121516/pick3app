@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+h1, h2, p {font-family:arial,sans-serif;color:black;}
+.messageBox {max-width:1000px;border:1px solid black;margin-left:auto;margin-right:auto;margin-top:25px;padding:20px;background-color:white;}
+</style>
+</head>
+<body style="background-color:orange;">
+<div class="wrapper">
+<div class="messageBox">
+<div class="content">
+        <header>
+            <!-- Status error messages start -->
+			<h1>Oops!</h1>	
+			<h2>&nbsp;</h2>
+		</header>
+		<main>
+			<p>Something wrong happened. We're very sorry. Please go to the home page and try again.</p>
+		</main>
+		<footer>
+            <div>
+				<p><a href="/">Texas Lottery Commission</a></p>
+			</div>
+        </footer>
+	</div></div>
+    </div>
+</body>
+</html>
