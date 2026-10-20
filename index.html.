@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DrawScope Support</title>
+</head>
+<body>
+  <h1>DrawScope Support</h1>
+  <p>Pick 3 &amp; Daily 4 Analytics</p>
+  <h2>Need Help?</h2>
+  <p>For questions, problems, or feedback, visit our
+    <a href="https://github.com/josephmadden121516/pick3app/issues">
+      GitHub support page
+    </a>.
+  </p>
+  <h2>About DrawScope</h2>
+  <p>DrawScope helps users explore historical lottery results,
+    number patterns, sum structures, and statistical trends.</p>
+  <p>Lottery results are random. Historical patterns do not
+    predict or guarantee future results or winnings.</p>
+</body>
+</html>
